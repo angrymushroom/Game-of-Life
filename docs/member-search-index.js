@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"src.main","c":"GameOfLife","l":"GameOfLife()","u":"%3Cinit%3E()"},{"p":"src.main","c":"GameOfLife","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"src.main","c":"GameOfLife","l":"nextGeneration(int[][], int, int)","u":"nextGeneration(int[][],int,int)"}];updateSearchResults();
