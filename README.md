@@ -1,1 +1,1 @@
-Conducted Conway's life game by Java
+Conducted Conway's game of life by Java
